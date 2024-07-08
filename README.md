@@ -97,3 +97,13 @@ const waitAndReturn = () =>
   run();
 ```
 # output
+![image](https://github.com/kaviyabalaji/javascript/blob/main/Screenshot%202024-07-08%20110517.png)
+![image](https://github.com/kaviyabalaji/javascript/blob/main/Screenshot%202024-07-08%20110525.png)
+![image](https://github.com/kaviyabalaji/javascript/blob/main/Screenshot%202024-07-08%20110532.png)
+![image](https://github.com/kaviyabalaji/javascript/blob/main/Screenshot%202024-07-08%20110537.png)
+![image](https://github.com/kaviyabalaji/javascript/blob/main/Screenshot%202024-07-08%20110543.png)
+![image](https://github.com/kaviyabalaji/javascript/blob/main/Screenshot%202024-07-08%20110548.png)
+![image](https://github.com/kaviyabalaji/javascript/blob/main/Screenshot%202024-07-08%20110632.png)
+![image](https://github.com/kaviyabalaji/javascript/blob/main/Screenshot%202024-07-08%20110632.png)
+![image](https://github.com/kaviyabalaji/javascript/blob/main/Screenshot%202024-07-08%20110638.png)
+![image](https://github.com/kaviyabalaji/javascript/blob/main/Screenshot%202024-07-08%20110646.png)
